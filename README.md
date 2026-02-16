@@ -1,6 +1,6 @@
 **Flutter Developer**
 
-I am a passionate developer learning about the Flutter ecosystem. This repository serves as a daily log of my progress, from mastering the core logic of Dart to building natively compiled, beautiful mobile applications.
+I am a passionate developer learning about the Flutter ecosystem. This repository serves as a log of my progress, from mastering the core logic of Dart to building natively compiled, beautiful mobile applications. I recently transitioned from Data Analytics to App Development to get closer to the build. While the tools have changed, my mission remains the same: solving complex problems through logic. I've moved from analyzing data to architecting the mobile solutions that handle it.
 
 **Tech Stack:**
 Framework: Flutter
