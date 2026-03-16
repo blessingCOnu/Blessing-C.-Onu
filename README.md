@@ -2,9 +2,9 @@
 
 I am a passionate developer learning Flutter/Dart to build cross-platform applications for mobile, web, and desktop.
 
-Language: Dart
-Framework: Flutter
-IDE: VSCode, DartPad
+Language: Dart  
+Framework: Flutter  
+IDE: VSCode, DartPad  
 Version Control: Git/GitHub
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
